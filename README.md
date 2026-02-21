@@ -8,13 +8,13 @@ Elebyte bridges the gap between human potential and digital innovation. Founded 
 
 ## Website Sections
 
-- **Hero** — Headline, tagline, and key stats (500+ clients, 12k+ training hours, 1.2k projects, 45 expert mentors)
+- **Hero** — Headline, tagline, and a call-to-action
 - **Services** — Three core offerings:
   - 🎓 **Technical Training** — Certified courses in cloud, cybersecurity, and software engineering
   - 💻 **Digital Solutions** — Custom software development and infrastructure optimization
   - 🌐 **Digitalisation Strategy** — Workflow automation, data strategy, and digital transformation consulting
 - **About** — Company mission, expert-led approach, and scalable solutions
-- **Contact** — Email, phone, and location details
+- **Contact** — Email (`elebyteltd@gmail.com`), phone (`+44 (0) 7503620067`), and location (London, UK)
 
 ## Tech Stack
 
